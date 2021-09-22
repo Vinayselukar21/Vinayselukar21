@@ -1,4 +1,4 @@
 - 👋 Hi, I’m Vinay Selukar (@Vinayselukar21)
 - 👀 My Interests are Web Development and Programming
 - 🌱 I’m currently persuing Mechanical engineering and learning to code side by side
-- 📫 you people can reach me out on Twitter (@VinaySelukar2) and on LinkedIn 
+- 📫 you people can reach me out on Twitter (@_vinox_) and on LinkedIn 
