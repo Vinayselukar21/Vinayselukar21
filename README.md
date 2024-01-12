@@ -9,8 +9,9 @@
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vinayselukar21&theme=cobalt" />
 
 <!-----GITHUB Stats------>
-![Rohit's GitHub stats](https://github-readme-stats.vercel.app/api?username=Vinayselukar21&show_icons=true&theme=radical)
+(https://github-readme-stats.vercel.app/api?username=Vinayselukar21&show_icons=true&theme=radical)
 
 <!-----Github Streak----->
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Vinayselukar21&theme=radical&hide_border=true&stroke=DD2727)](https://git.io/streak-stats)
+(http://github-readme-streak-stats.herokuapp.com?user=Vinayselukar21&theme=radical&hide_border=true&stroke=DD2727)](https://git.io/streak-stats)
+
 
