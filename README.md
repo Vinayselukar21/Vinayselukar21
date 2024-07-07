@@ -14,9 +14,9 @@ Frontend developer aspiring to become a full stack developer, passionate about c
 ## Github Stats
 ![](https://komarev.com/ghpvc/?username=Vinayselukar21)
 <p style="display:flex; align-items:center; justify-content:center; flex-wrap: wrap;">
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vinayselukar21&theme=cobalt" />
 <img src="https://github-readme-stats.vercel.app/api?username=Vinayselukar21&theme=midnight-purple" style="margin-right:4px;">
 <img src="https://streak-stats.demolab.com/?user=Vinayselukar21&theme=holi-theme">
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vinayselukar21&theme=cobalt" />
 </p>
 
 
