@@ -1,7 +1,7 @@
 <div style="text-align: center;"> 
   <img width="400" src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=30&duration=3000&color=2AF7B4&width=535&lines=Hi%2C+I'm+Vinay%F0%9F%91%8B;"/>
 </div>
-https://camo.githubusercontent.com/acea7147d3e43acb665e2513ff909c65e7f009c748f3ffb6609d222cb2ceb104/68747470733a2f2f6b6f6d617265762e636f6d2f67687076632f3f757365726e616d653d76696e6565546167617277614c2d636f6465
+
 ## About Me
 <p style="font-size:7px;">
 Frontend developer aspiring to become a full stack developer, passionate about creating seamless and dynamic web experiences.
