@@ -4,7 +4,7 @@
 
 ## About Me
 <p style="font-size:7px;">
-Frontend developer aspiring to become a full stack developer, passionate about creating seamless and dynamic web experiences.
+Frontend developer aspiring to become a full stack developer, <br>passionate about creating seamless and dynamic web experiences.
 </p>
 
 ## Got an idea? Lets Connect!
